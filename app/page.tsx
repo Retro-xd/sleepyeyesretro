@@ -72,10 +72,10 @@ export default function Home() {
 
       <section id="intro" className="pb-20 pt-10 md:pb-28">
         <div className="grid gap-8 md:grid-cols-[0.7fr_1.3fr] md:items-start">
-          <div className="relative h-36 md:min-h-[430px]">
+          <div className="relative h-56 md:min-h-[430px]">
             <p className="section-label absolute left-0 top-14 z-10 md:top-0">01 / Introduction</p>
             <span
-              className="hello-wave absolute right-0 top-14 flex h-32 w-44 items-center justify-center text-[6.5rem] leading-none md:inset-0 md:h-full md:w-full md:text-[15rem]"
+              className="hello-wave absolute left-0 right-auto top-[5rem] flex h-32 w-auto items-center justify-start text-[7.5rem] leading-none md:inset-0 md:h-full md:w-full md:justify-center md:text-[15rem]"
               role="img"
               aria-label="Waving hand"
             >
