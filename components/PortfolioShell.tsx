@@ -195,7 +195,7 @@ export function PortfolioShell({ children }: { children: React.ReactNode }) {
           <div className="flex items-center gap-3">
             <span className="text-zinc-900">sleepyeyesretro</span>
             <span>•</span>
-            <span>Based in Lagos</span>
+            <span>Based in Abuja, NG</span>
           </div>
           <div className="flex items-center gap-5">
             <a href="mailto:aleeyu011@gmail.com" className="inline-flex items-center gap-2 hover:text-zinc-900">
